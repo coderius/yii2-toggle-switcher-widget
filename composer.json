@@ -1,6 +1,7 @@
 {
     "name": "coderius/yii2-toggle-switcher-widget",
     "description": "Yii 2 toggle-switcher-widget",
+    "version": "1.0.0",
     "keywords": ["switcher", "widget", "yii2"],
     "type": "yii2-extension",
     "license": "MIT",
@@ -21,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "coderius\\lightbox2\\": "src/"
+            "coderius\\switcher\\": "src/"
         }
     },
     "extra": {

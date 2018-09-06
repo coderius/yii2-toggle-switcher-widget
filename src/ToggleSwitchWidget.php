@@ -1,5 +1,5 @@
 <?php
-namespace common\widgets\IosStyleToggleSwitch;
+namespace coderius\switcher;
 
 use Yii;
 use yii\base\InvalidConfigException;

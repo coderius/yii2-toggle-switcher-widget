@@ -1,6 +1,6 @@
 <?php
 
-namespace common\widgets\IosStyleToggleSwitch;
+namespace coderius\switcher;
 
 use yii\web\AssetBundle;
 
