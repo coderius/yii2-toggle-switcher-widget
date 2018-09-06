@@ -14,7 +14,7 @@ use yii\widgets\InputWidget;
  * Виджет 
  */
 
-class IosStyleToggleSwitchWidget extends InputWidget
+class ToggleSwitchWidget extends InputWidget
 {
     const CHECKBOX = "checkbox";
 //    const RADIO = "radio";
@@ -109,7 +109,7 @@ class IosStyleToggleSwitchWidget extends InputWidget
     protected function registerAssets()
     {
         $view = $this->getView();
-        IosStyleToggleSwitchAsset::register($view);
+        ToggleSwitchAsset::register($view);
         
         $js = <<<JS
         

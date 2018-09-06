@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
 /**
  * Main frontend application asset bundle.
  */
-class IosStyleToggleSwitchAsset extends AssetBundle
+class ToggleSwitchAsset extends AssetBundle
 {
     public $sourcePath = (__DIR__ . '/assets');
     
@@ -19,7 +19,7 @@ class IosStyleToggleSwitchAsset extends AssetBundle
     ];
     
     public $depends = [
-        "backend\assets\AppAsset"
+        'yii\web\YiiAsset',
     ];
     
     public $publishOptions = [

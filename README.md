@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require coderius/yii2-lightbox2-widget "@dev"
+php composer.phar require "coderius/yii2-toggle-switcher-widget" "@dev"
 ```
 
 or add
 
 ```json
-"coderius/yii2-lightbox2-widget" : "@dev"
+"coderius/yii2-toggle-switcher-widget" : "@dev"
 ```
 
 to the require section of your application's `composer.json` file.
