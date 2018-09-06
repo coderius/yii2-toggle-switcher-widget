@@ -16,6 +16,11 @@ Either run
 ```
 php composer.phar require "coderius/yii2-toggle-switcher-widget" "@dev"
 ```
+or
+
+```
+composer require "coderius/yii2-toggle-switcher-widget" "@dev"
+```
 
 or add
 
