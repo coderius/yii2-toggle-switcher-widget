@@ -43,6 +43,7 @@
 //			element_parent.append($div);
 
 //my code
+console.log('hhhhhhhhhhhh');
                         var $placeholder = $('<span style="display: none;" />');
                         $placeholder.insertAfter( $(_this) );
                         var detached  = $(_this).detach();

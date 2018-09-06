@@ -36,3 +36,8 @@ How to basic use widget:
 ?>
 
 ```
+Or more short notice (ToggleSwitchWidget::CHECKBOX is default type value in widget):
+
+```php
+<?= $form->field($model, 'status')->widget(ToggleSwitchWidget::classname()); ?>
+```
