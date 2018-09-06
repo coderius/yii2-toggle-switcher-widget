@@ -3,6 +3,7 @@ Toggle switcher widget for Yii2
 
 
 This widget will help to replace the checkbox in the form with a nice switch.
+
 ![alt text](https://github.com/coderius/github-images/blob/master/ezgif.com-optimize.gif "Toggle switcher widget example")
 ![alt text](https://github.com/coderius/github-images/blob/master/Kazam_screenshot_00003.png "Toggle switcher widget example")
 
